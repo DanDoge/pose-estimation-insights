@@ -1,0 +1,7 @@
+./pkl
+./log
+/data/pascal3d+
+/data/VOC2007
+/.ipynb_checkpoints
+/__pycache__
+/res
